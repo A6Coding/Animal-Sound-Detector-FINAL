@@ -1,0 +1,24 @@
+body 
+{
+    color:blue;
+background-color: white;
+font-family: 'Edu NSW ACT Foundation', cursive;
+}
+
+#main_div{
+    background-color: lightblue;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.copy_right_footer{
+    font-family: 'Anton', sans-serif;
+    position: fixed;
+    bottom: 0;
+    line-height: 3;
+    width:100%;
+    font-size: 50%;
+    text-align: center;
+    color:blue;
+    text-shadow: 5px 5px 5px blue;
+    margin-bottom: 2%;
+}
